@@ -10,6 +10,7 @@ public class Triangle {
 		this.a = a;
 		this.b = b;
 		this.c = c;
+		//ared
 				
 	}
 
