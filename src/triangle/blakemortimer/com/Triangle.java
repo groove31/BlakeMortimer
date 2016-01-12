@@ -1,5 +1,7 @@
 package triangle.blakemortimer.com;
 
+// commentaire de stephan pour git
+
 public class Triangle {
 
 	private double a, b, c;
